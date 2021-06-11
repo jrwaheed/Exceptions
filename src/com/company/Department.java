@@ -1,5 +1,6 @@
 package com.company;
 
+
 public class Department {
     String name = "";
     Department [] subDepartments;
